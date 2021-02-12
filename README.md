@@ -1,2 +1,2 @@
 # DQLab
-DQLab Belajar Data Science Online Kapan Saja dan Dimana Saja!
+Repository ini digunakan untuk menyimpan dan membagikan materi dan project yang sudah saya kerjakan di DQLab.
