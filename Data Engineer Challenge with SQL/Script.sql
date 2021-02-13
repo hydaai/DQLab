@@ -1,4 +1,4 @@
-/*menguji kemampuan dasar SQL menggunakan Bahasa Pemrograman SQL Server*/
+/*menguji kemampuan dasar SQL*/
 
 USE DQLab
 
