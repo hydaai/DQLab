@@ -18,6 +18,14 @@ FROM ms_produk
 
 /*---------------- Membatasi Pengambilan Jumlah Row Data ----------------*/
 /*Instruksi : Ambil 3 data dari table ms_produk*/
+SELECT
+    nama_produk 
+FROM ms_produk
+limit 3
+
+/* -jika software yang digunakan mysql, gunakan limit
+   -jika software yang digunakan sql server, ganti limit diakhir menjadi top diawal
 SELECT top 3 
     nama_produk 
 FROM ms_produk
+*/
